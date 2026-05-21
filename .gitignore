@@ -1,0 +1,16 @@
+# IDE
+.idea/
+.vscode/
+
+# Build artifacts
+/network-sender
+*.exe
+*.test
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
